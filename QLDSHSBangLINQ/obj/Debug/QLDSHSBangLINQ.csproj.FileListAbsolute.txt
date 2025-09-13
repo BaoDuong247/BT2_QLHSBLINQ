@@ -1,0 +1,8 @@
+D:\0154_Nguyễn Dương Bảo\QLDSHSBangLINQ\QLDSHSBangLINQ\bin\Debug\QLDSHSBangLINQ.exe.config
+D:\0154_Nguyễn Dương Bảo\QLDSHSBangLINQ\QLDSHSBangLINQ\bin\Debug\QLDSHSBangLINQ.exe
+D:\0154_Nguyễn Dương Bảo\QLDSHSBangLINQ\QLDSHSBangLINQ\bin\Debug\QLDSHSBangLINQ.pdb
+D:\0154_Nguyễn Dương Bảo\QLDSHSBangLINQ\QLDSHSBangLINQ\obj\Debug\QLDSHSBangLINQ.csproj.AssemblyReference.cache
+D:\0154_Nguyễn Dương Bảo\QLDSHSBangLINQ\QLDSHSBangLINQ\obj\Debug\QLDSHSBangLINQ.csproj.CoreCompileInputs.cache
+D:\0154_Nguyễn Dương Bảo\QLDSHSBangLINQ\QLDSHSBangLINQ\obj\Debug\QLDSHSBangLINQ.exe
+D:\0154_Nguyễn Dương Bảo\QLDSHSBangLINQ\QLDSHSBangLINQ\obj\Debug\QLDSHSBangLINQ.pdb
+D:\0154_Nguyễn Dương Bảo\QLDSHSBangLINQ\QLDSHSBangLINQ\obj\Debug\QLDSHSBangLINQ.exe.config
